@@ -3,6 +3,8 @@
  *        See https://github.com/webpack-contrib/sass-loader#imports
  */
 @import "~font-awesome/css/font-awesome.css";
+@import "~electron-react-titlebar/assets/style.css";
+@import "~bootstrap/dist/css/bootstrap-reboot.css";
 
 body {
   position: relative;
